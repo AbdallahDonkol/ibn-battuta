@@ -1,0 +1,43 @@
+header{
+    background-image: url('../../images/hero.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    z-index: 1;
+}
+header::after{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: -1;
+}
+header .container button{
+    background-color: #ff7010;
+    width: fit-content;
+}
+header .container button:hover{
+    background-color: #bf540c;
+}
+
+.image{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+svg{
+    transform: translateY(1px);
+}
+
+@media screen and (max-width:767px){
+    header .container button{
+        width: 100%;
+    }
+    .image{
+        width: 100%;
+    }
+}

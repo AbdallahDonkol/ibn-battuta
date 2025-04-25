@@ -1,0 +1,26 @@
+{
+    "navbar": {
+      "title": "Ibn Battuta",
+      "language": "Arabic",
+      "english": "English"
+    },
+    "home": {
+      "header_title": "Unforgettable Moscow Tours",
+      "header_text": "Discover the essence of Moscow with bespoke tours designed to impress every traveler and create lasting memories",
+      "book_ticket": "Book Your Tour",
+      "explore_world": "Explore the World with Ibn Battuta",
+      "explore_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam unde explicabo sit ducimus quisquam exercitationem alias similique nobis enim? Vel corporis eveniet culpa facere facilis eaque laborum omnis necessitatibus debitis!",
+      "experience_title": "Unforgettable Moscow Experiences Await",
+      "experience_title2": "Guided City Tours",
+      "experience_text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Minus quaerat repellendus iusto suscipit quia placeat sit fuga accusamus delectus tenetur, maiores tempore fugit nesciunt debitis reiciendis autem porro deserunt similique.",
+      "experience_title3": "Custom Travel Packages",
+      "experience_text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Minus quaerat repellendus iusto suscipit quia placeat sit fuga accusamus delectus tenetur, maiores tempore fugit nesciunt debitis reiciendis autem porro deserunt similique.",
+      "experience_title4": "Luxury Accommodation Booking",
+      "experience_text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Minus quaerat repellendus iusto suscipit quia placeat sit fuga accusamus delectus tenetur, maiores tempore fugit nesciunt debitis reiciendis autem porro deserunt similique.",
+      "premier_title": "Moscow's Premier Tour Experience",
+      "premier_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Minus quaerat repellendus iusto suscipit quia placeat sit fuga accusamus delectus tenetur, maiores tempore fugit nesciunt debitis reiciendis autem porro deserunt similique."
+    },
+    "footer": {
+      "footer_text": "Copyright © Ibn Battuta Tourism"
+    }
+  }

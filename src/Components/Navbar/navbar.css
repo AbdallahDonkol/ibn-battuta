@@ -1,0 +1,9 @@
+.navbar-nav{
+    margin-inline-start: auto;
+}
+.dropdown-toggle::after{
+    content: none !important;
+}
+.dropdown{
+    transform: translateY(-5px);
+}
