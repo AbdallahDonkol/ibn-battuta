@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.aadba239.css",
+    "main.js": "/react-gh-pages/static/js/main.a08983cc.js",
+    "static/js/453.37ff0b94.chunk.js": "/react-gh-pages/static/js/453.37ff0b94.chunk.js",
+    "static/media/exp_7.jpg": "/react-gh-pages/static/media/exp_7.7bce0df3ca8f27c0e5f0.jpg",
+    "static/media/hero.jpg": "/react-gh-pages/static/media/hero.ef4fd91b4245d10229bb.jpg",
+    "static/media/exp_3.jpg": "/react-gh-pages/static/media/exp_3.703e1ba1bc8b5fa8e600.jpg",
+    "static/media/exp_4.jpg": "/react-gh-pages/static/media/exp_4.a84c86124afb6e82d8e4.jpg",
+    "static/media/exp_6.jpg": "/react-gh-pages/static/media/exp_6.d3733de869e1942cef1b.jpg",
+    "static/media/exp_1.jpg": "/react-gh-pages/static/media/exp_1.20e60e8c465aa072edbf.jpg",
+    "static/media/exp_2.jpg": "/react-gh-pages/static/media/exp_2.b897221ce8c01fdbed3e.jpg",
+    "static/media/exp_5.jpg": "/react-gh-pages/static/media/exp_5.d0e6c1e7c12f2f0f11c0.jpg",
+    "static/media/fa-solid-900.ttf": "/react-gh-pages/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/react-gh-pages/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/travel.jpg": "/react-gh-pages/static/media/travel.93fe16c81c0f7b16171f.jpg",
+    "static/media/fa-solid-900.woff2": "/react-gh-pages/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/react-gh-pages/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/logo_1.jpeg": "/react-gh-pages/static/media/logo_1.18af113f6e68a6d4d188.jpeg",
+    "static/media/fa-regular-400.ttf": "/react-gh-pages/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/react-gh-pages/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/united_kingdom.png": "/react-gh-pages/static/media/united_kingdom.12337ad1495a37ccfbb9.png",
+    "static/media/saudi_arabia.png": "/react-gh-pages/static/media/saudi_arabia.2c97f9b1a1feeafd9573.png",
+    "static/media/fa-v4compatibility.ttf": "/react-gh-pages/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-gh-pages/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/react-gh-pages/index.html",
+    "main.aadba239.css.map": "/react-gh-pages/static/css/main.aadba239.css.map",
+    "main.a08983cc.js.map": "/react-gh-pages/static/js/main.a08983cc.js.map",
+    "453.37ff0b94.chunk.js.map": "/react-gh-pages/static/js/453.37ff0b94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aadba239.css",
+    "static/js/main.a08983cc.js"
+  ]
+}
